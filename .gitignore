@@ -66,3 +66,14 @@ target/m2e-wtp/web-resources/META-INF/maven/com.nt/BootRestProj01_FirstProviderA
 target/m2e-wtp/web-resources/META-INF/maven/com.nt/BootRestProj01_FirstProviderApp/pom.xml
 target/m2e-wtp/web-resources/META-INF/maven/com.nt/BootRestProj02_AppRequestModes_POC/pom.properties
 target/m2e-wtp/web-resources/META-INF/maven/com.nt/BootRestProj02_AppRequestModes_POC/pom.xml
+.settings/org.springframework.ide.eclipse.prefs
+.settings/org.eclipse.wst.validation.prefs
+.settings/org.eclipse.wst.jsdt.ui.superType.name
+.settings/org.eclipse.wst.jsdt.ui.superType.container
+.settings/org.eclipse.wst.common.project.facet.core.xml
+.settings/org.eclipse.wst.common.component
+.settings/org.eclipse.m2e.core.prefs
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.jdt.apt.core.prefs
+.settings/org.eclipse.core.resources.prefs
+.settings/.jsdtscope

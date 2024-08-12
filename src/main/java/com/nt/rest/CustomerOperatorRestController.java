@@ -55,7 +55,7 @@ public class CustomerOperatorRestController {
 	public ResponseEntity<Employee> readEmployee(Employee employee) {
 		
 		System.out.println("CustomerOperatorRestController.readEmployee()");
-		Employee e  = new Employee(1,"Anand","Pasunoori");
+		Employee e  = new Employee(1,"Java","Programming");
 		
 		return new ResponseEntity<Employee>(e,HTTP_STATUS_OK);
 		
